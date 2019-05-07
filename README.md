@@ -1,3 +1,11 @@
+# this tutorial (outdated)
+
+- https://medium.com/@drcmda/hooks-in-react-spring-a-tutorial-c6c436ad7ee4
+
+# updated version
+
+- https://codesandbox.io/embed/8zx4ppk01l
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
